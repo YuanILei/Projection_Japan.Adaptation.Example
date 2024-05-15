@@ -192,17 +192,3 @@ afctry[,,"heat","2090-99","ensemble","ssp585"]
 
 # COLD
 afctry[,,"cold","2090-99","ensemble","ssp585"]
-
-anpref
-afpref
-afctry
-anctry
-tyr
-################################################################################
-
-# SAVE 
-# all pop
-save(list=c("cen.df","anpref","afpref","anctry","afctry","tyr"),file="temp_attr_allmort_nopop_fixed mmtp_all.rda")
-
-
-
