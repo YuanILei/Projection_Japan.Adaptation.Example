@@ -1,6 +1,5 @@
 ################################################################################
 # Aim: to summary & plot country- and prefecture-specific projected 
-# temperature data obtained and processed by Paul
 # 3rd_stage_proj, all-cause mortality
 # ADAPTATION SENARIO: CONSTANT MMTP
 # Created and Updated by Lei Yuan on April 20th, 2024
